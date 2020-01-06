@@ -1,0 +1,17 @@
+@import url("common.css");
+@import url("form.css");
+@import url("../components/main/style.css");
+@import url("../components/rangePicker/style.css");
+@import url("../components/doubleSlider/style.css");
+@import url("../components/columnChart/style.css");
+@import url("../components/tooltip/style.css");
+@import url("../components/sortableTable/style.css");
+@import url("../components/sortableList/style.css");
+@import url("../components/notification/style.css");
+@import url("../components/tableFields/style.css");
+@import url("../components/category/style.css");
+@import url("../pages/dashboard/style.css");
+@import url("../pages/products/list/style.css");
+@import url("../pages/products/edit/style.css");
+@import url("../pages/categories/style.css");
+@import url("../pages/sales/style.css");
